@@ -7,7 +7,7 @@ Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](https://www.michaelhartl.com/).
 
 ## Live
-[Live Demo Heroku](https://rails-sample-app-ansar.herokuapp.com/)
+[Live Demo Heroku](https://rails-sample-app-ansar.herokuapp.com/).
 
 ## License
 
