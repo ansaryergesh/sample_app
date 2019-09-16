@@ -61,6 +61,7 @@ GEM
     ansi (1.5.0)
     autoprefixer-rails (9.6.1.1)
       execjs
+    bcrypt (3.1.12-x64-mingw32)
     bindex (0.8.1)
     bootsnap (1.4.4)
       msgpack (~> 1.0)
@@ -183,7 +184,7 @@ GEM
     regexp_parser (1.6.0)
     ruby-progressbar (1.10.1)
     ruby_dep (1.5.0)
-    rubyzip (1.2.3)
+    rubyzip (1.2.4)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
@@ -221,7 +222,7 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2019.2)
+    tzinfo-data (1.2019.3)
       tzinfo (>= 1.0.0)
     web-console (4.0.1)
       actionview (>= 6.0.0)
@@ -241,12 +242,13 @@ GEM
     websocket-extensions (0.1.4)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.1.9)
+    zeitwerk (2.1.10)
 
 PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  bcrypt (= 3.1.12)
   bootsnap (= 1.4.4)
   bootstrap-sass (= 3.4.1)
   byebug
