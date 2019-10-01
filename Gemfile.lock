@@ -133,11 +133,7 @@ GEM
     msgpack (1.3.1)
     msgpack (1.3.1-x64-mingw32)
     nenv (0.3.0)
-<<<<<<< HEAD
     nio4r (2.5.2)
-=======
-    nio4r (2.5.1)
->>>>>>> sign-up
     nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.4-x64-mingw32)
@@ -206,15 +202,9 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
-<<<<<<< HEAD
     sassc (2.2.1)
       ffi (~> 1.9)
     sassc (2.2.1-x64-mingw32)
-=======
-    sassc (2.2.0)
-      ffi (~> 1.9)
-    sassc (2.2.0-x64-mingw32)
->>>>>>> sign-up
       ffi (~> 1.9)
     selenium-webdriver (3.142.3)
       childprocess (>= 0.5, < 2.0)
