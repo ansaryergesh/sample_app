@@ -12,6 +12,7 @@ gem 'jbuilder',   '2.9.1'
 gem 'coffee-rails', '~> 4.2'
 gem 'bootsnap',   '1.4.4', require: false
 gem 'jquery-rails'
+gem 'coffee-script-source', '~> 1.11', '>= 1.11.1'
 
 group :development, :test do
   gem 'sqlite3',    '1.4.1'
